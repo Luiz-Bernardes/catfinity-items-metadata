@@ -1,0 +1,10 @@
+{
+  "name": "Eternal Cloak",
+  "description": "Allows 'Spiritual Fragment Scroll' to be used twice per round.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/eternal_cloak.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "L" },
+    { "trait_type": "Item Type", "value": "Utility-Equip" },
+    { "trait_type": "Required Level", "value": 27 }
+  ]
+}

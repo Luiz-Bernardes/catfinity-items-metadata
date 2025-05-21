@@ -1,0 +1,10 @@
+{
+  "name": "Spiritual Fragment Scroll",
+  "description": "Grants invincibility for 1.4 seconds.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/spiritual_fragment_scroll.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "R" },
+    { "trait_type": "Item Type", "value": "Skill-Scroll" },
+    { "trait_type": "Required Level", "value": 5 }
+  ]
+}

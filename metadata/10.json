@@ -1,0 +1,10 @@
+{
+  "name": "Celestial Slippers",
+  "description": "Increases movement speed by 20%.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/celestial_slippers.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "L" },
+    { "trait_type": "Item Type", "value": "Mobility-Equip" },
+    { "trait_type": "Required Level", "value": 27 }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Dash Scroll",
+  "description": "Dashes forward quickly.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/dash_scroll.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "R" },
+    { "trait_type": "Item Type", "value": "Skill-Scroll" },
+    { "trait_type": "Required Level", "value": 5 }
+  ]
+}

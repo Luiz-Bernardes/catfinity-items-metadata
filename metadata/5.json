@@ -1,0 +1,10 @@
+{
+  "name": "Blink Boots",
+  "description": "Increases 'Dash Scroll' distance by 50%.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/blink_boots.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "E" },
+    { "trait_type": "Item Type", "value": "Utility-Equip" },
+    { "trait_type": "Required Level", "value": 18 }
+  ]
+}

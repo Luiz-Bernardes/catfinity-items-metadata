@@ -1,7 +1,7 @@
 {
   "name": "Vital Fishbone",
   "description": "Recovers +1 life.",
-  "image": "https://seu-site-ou-github.com/assets/images/items/vital_fishbone.png",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/vital_fishbone.png",
   "attributes": [
     { "trait_type": "Rarity", "value": "R" },
     { "trait_type": "Item Type", "value": "Consumable" },

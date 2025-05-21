@@ -1,7 +1,7 @@
 {
   "name": "Energy Paw",
   "description": "Recovers +1 energy.",
-  "image": "https://seu-site-ou-github.com/assets/images/items/energy_paw.png",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/energy_paw.png",
   "attributes": [
     { "trait_type": "Rarity", "value": "SR" },
     { "trait_type": "Item Type", "value": "Consumable" },
