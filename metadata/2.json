@@ -1,0 +1,10 @@
+{
+  "name": "Vital Fishbone",
+  "description": "Recovers +1 life.",
+  "image": "https://seu-site-ou-github.com/assets/images/items/vital_fishbone.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "R" },
+    { "trait_type": "Item Type", "value": "Consumable" },
+    { "trait_type": "Required Level", "value": 4 }
+  ]
+}
