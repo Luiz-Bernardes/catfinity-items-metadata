@@ -1,0 +1,10 @@
+{
+  "name": "Shadow Sneakers",
+  "description": "Increases movement by 10% base speed.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/shadow_sneakers.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "E" },
+    { "trait_type": "Item Type", "value": "Mobility-Equip" },
+    { "trait_type": "Required Level", "value": 18 }
+  ]
+}

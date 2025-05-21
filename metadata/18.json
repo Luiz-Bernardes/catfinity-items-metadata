@@ -1,0 +1,10 @@
+{
+  "name": "Vitality Elixir",
+  "description": "Consume 1 energy to recover +1 life.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/vitality_elixir.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "SR" },
+    { "trait_type": "Item Type", "value": "consumable" },
+    { "trait_type": "Required Level", "value": 14 }
+  ]
+}

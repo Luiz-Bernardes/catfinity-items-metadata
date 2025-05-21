@@ -1,0 +1,10 @@
+{
+  "name": "Mixture Of Knowledge",
+  "description": "Gain 120 xp.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/mixture_of_knowledge.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "S" },
+    { "trait_type": "Item Type", "value": "experience-potion" },
+    { "trait_type": "Required Level", "value": 10 }
+  ]
+}

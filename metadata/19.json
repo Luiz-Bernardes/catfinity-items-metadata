@@ -1,0 +1,10 @@
+{
+  "name": "Last Breath Vial",
+  "description": "If you have 1 life, recover 2 life and remain immobile for 3 seconds.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/last_breath_vial.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "SR" },
+    { "trait_type": "Item Type", "value": "consumable" },
+    { "trait_type": "Required Level", "value": 14 }
+  ]
+}

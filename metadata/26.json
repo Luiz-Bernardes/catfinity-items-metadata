@@ -1,0 +1,10 @@
+{
+  "name": "Bronze Key",
+  "description": "Use it to open bronze treasure box.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/bronze_key.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "SR" },
+    { "trait_type": "Item Type", "value": "key-item" },
+    { "trait_type": "Required Level", "value": 9 }
+  ]
+}

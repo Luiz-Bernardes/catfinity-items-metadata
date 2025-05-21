@@ -1,0 +1,10 @@
+{
+  "name": "Blood Pact Brew",
+  "description": "Consume 1 life to become invulnerable for 20 seconds.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/blood_pact_brew.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "SR" },
+    { "trait_type": "Item Type", "value": "consumable" },
+    { "trait_type": "Required Level", "value": 14 }
+  ]
+}

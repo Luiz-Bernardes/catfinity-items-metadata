@@ -1,0 +1,10 @@
+{
+  "name": "Phantom Chain Scroll",
+  "description": "Slows down all elements in the scene by 60% for 8s.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/phantom_chain_scroll.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "R" },
+    { "trait_type": "Item Type", "value": "skill-scroll" },
+    { "trait_type": "Required Level", "value": 5 }
+  ]
+}

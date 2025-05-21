@@ -1,0 +1,10 @@
+{
+  "name": "Hellish Roast Beef",
+  "description": "Gain 10 strength for 60 seconds.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/hellish_roast_beef.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "E" },
+    { "trait_type": "Item Type", "value": "status-booster" },
+    { "trait_type": "Required Level", "value": 19 }
+  ]
+}

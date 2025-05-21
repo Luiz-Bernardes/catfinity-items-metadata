@@ -1,0 +1,10 @@
+{
+  "name": "Potion Of Ancient Wisdom",
+  "description": "Gain 150 xp.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/potion_of_ancient_wisdom.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "S" },
+    { "trait_type": "Item Type", "value": "experience-potion" },
+    { "trait_type": "Required Level", "value": 10 }
+  ]
+}

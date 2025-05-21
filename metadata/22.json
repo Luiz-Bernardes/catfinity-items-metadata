@@ -1,0 +1,10 @@
+{
+  "name": "Titan Brew",
+  "description": "Gain 10% chance to block damage for the next 20 seconds.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/titan_brew.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "SR" },
+    { "trait_type": "Item Type", "value": "status-booster" },
+    { "trait_type": "Required Level", "value": 14 }
+  ]
+}

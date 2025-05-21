@@ -1,0 +1,10 @@
+{
+  "name": "Stray Cat Hood",
+  "description": "Max life +1 (cap 7).",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/stray_cat_hood.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "S" },
+    { "trait_type": "Item Type", "value": "utility-equip" },
+    { "trait_type": "Required Level", "value": 12 }
+  ]
+}

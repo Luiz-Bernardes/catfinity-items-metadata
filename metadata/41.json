@@ -1,0 +1,10 @@
+{
+  "name": "Giant's Belt",
+  "description": "+5 strength, reduces stunned time by 50% and increases the chance of avoiding by 25%.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/giants_belt.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "E" },
+    { "trait_type": "Item Type", "value": "utility-equip" },
+    { "trait_type": "Required Level", "value": 18 }
+  ]
+}

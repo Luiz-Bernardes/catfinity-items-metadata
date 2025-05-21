@@ -1,0 +1,10 @@
+{
+  "name": "Void Chain",
+  "description": "Decreases movement speed by 10% and has a 5% chance to ignore damage.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/void_chain.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "E" },
+    { "trait_type": "Item Type", "value": "utility-equip" },
+    { "trait_type": "Required Level", "value": 18 }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Blue Crystal",
+  "description": "A crystal with a mysterious power known to few.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/blue_crystal.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "S" },
+    { "trait_type": "Item Type", "value": "crystal" },
+    { "trait_type": "Required Level", "value": 30 }
+  ]
+}

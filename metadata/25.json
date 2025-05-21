@@ -1,0 +1,10 @@
+{
+  "name": "Ghost Bell Pendant",
+  "description": "It raises 'Phantom Chain Scroll' skill limit use to 2 per round.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/ghost_bell_pendant.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "L" },
+    { "trait_type": "Item Type", "value": "utility-equip" },
+    { "trait_type": "Required Level", "value": 27 }
+  ]
+}

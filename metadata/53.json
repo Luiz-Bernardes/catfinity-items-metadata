@@ -1,0 +1,10 @@
+{
+  "name": "Silent Thunder Boots",
+  "description": "Increases movement by 30% base speed.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/silent_thunder_boots.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "S" },
+    { "trait_type": "Item Type", "value": "mobility-equip" },
+    { "trait_type": "Required Level", "value": 25 }
+  ]
+}

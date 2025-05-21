@@ -1,0 +1,10 @@
+{
+  "name": "Frozen Space Scroll",
+  "description": "Freezes all elements in the scene for 3s.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/frozen_space_scroll.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "R" },
+    { "trait_type": "Item Type", "value": "skill-scroll" },
+    { "trait_type": "Required Level", "value": 5 }
+  ]
+}

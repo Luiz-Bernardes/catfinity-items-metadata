@@ -1,0 +1,10 @@
+{
+  "name": "Mist Flask",
+  "description": "Gain 10% speed for 30 seconds.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/mist_flask.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "R" },
+    { "trait_type": "Item Type", "value": "status-booster" },
+    { "trait_type": "Required Level", "value": 4 }
+  ]
+}

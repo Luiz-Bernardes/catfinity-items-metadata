@@ -1,0 +1,10 @@
+{
+  "name": "Titanite Serum",
+  "description": "Gain 20 strength for 60 seconds.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/titanite_serum.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "L" },
+    { "trait_type": "Item Type", "value": "status-booster" },
+    { "trait_type": "Required Level", "value": 30 }
+  ]
+}

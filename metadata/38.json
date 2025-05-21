@@ -1,0 +1,10 @@
+{
+  "name": "Hammer Of The Fallen Colossus",
+  "description": "+10 strength, -2 intelligence.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/hammer_of_the_fallen_colossus.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "SR" },
+    { "trait_type": "Item Type", "value": "utility-equip" },
+    { "trait_type": "Required Level", "value": 8 }
+  ]
+}
