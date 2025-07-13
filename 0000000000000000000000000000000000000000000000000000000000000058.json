@@ -1,0 +1,10 @@
+{
+  "name": "Legendary Necklace",
+  "description": "+10 intelligence, +10 strength, +5 speed.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/legendary_necklace.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "S" },
+    { "trait_type": "Item Type", "value": "utility-equip" },
+    { "trait_type": "Required Level", "value": 30 }
+  ]
+}
