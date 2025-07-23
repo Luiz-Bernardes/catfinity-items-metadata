@@ -1,0 +1,10 @@
+{
+  "name": "Astral Orb",
+  "description": "Mysterious orb that brings the power of birth.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/astral_orb.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "S" },
+    { "trait_type": "Item Type", "value": "spiritual-orb" },
+    { "trait_type": "Required Level", "value": 1 }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Boots Of Wild Fury",
+  "description": "Increases movement by 15% base speed, +5 strength.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/boots_of_wild_fury.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "L" },
+    { "trait_type": "Item Type", "value": "mobility-equip" },
+    { "trait_type": "Required Level", "value": 27 }
+  ]
+}

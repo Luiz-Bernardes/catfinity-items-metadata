@@ -1,0 +1,10 @@
+{
+  "name": "Emerald",
+  "description": "Precious metal with great value.",
+  "image": "https://luiz-bernardes.github.io/catfinity-items-metadata/images/emerald.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "S" },
+    { "trait_type": "Item Type", "value": "precious-metal" },
+    { "trait_type": "Required Level", "value": 1 }
+  ]
+}
